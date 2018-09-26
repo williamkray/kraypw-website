@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/williamkray
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.kray.pw
+  * I am williamkray (https://keybase.io/williamkray) on keybase.
+  * I have a public key ASDndFtqe2LmQxelU-vyP5WD3HG1ukwahpoMgyhasaYdkgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019f9fb3f69cc8213eab42d7747618326a395d5cebaac6c55209498795734c4bea0a",
+      "host": "keybase.io",
+      "kid": "0120e7745b6a7b62e64317a553ebf23f9583dc71b5ba4c1a869a0c83285ab1a61d920a",
+      "uid": "93261e7836e7c2d25c20e02a753e7f19",
+      "username": "williamkray"
+    },
+    "merkle_root": {
+      "ctime": 1505491828,
+      "hash": "67f11d5b2492eddf37450a26ac22d9b440c2898bde3643d7492f8553a4b45e8cc310e83d9ee034f0544147743ea0080818d22f8beaac8c7e4d7bffac33755369",
+      "hash_meta": "96be5e1895b792dbb094b510e5ef6b9b8d4c21a83daa750613d3c65fa17e39eb",
+      "seqno": 1389631
+    },
+    "service": {
+      "hostname": "www.kray.pw",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.30"
+  },
+  "ctime": 1505491872,
+  "expire_in": 504576000,
+  "prev": "71fd78dae87b7bbacfc37b8856fa228795bcc0c24d50654ab86c6f106c82088a",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg53Rbanti5kMXpVPr8j+Vg9xxtbpMGoaaDIMoWrGmHZIKp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxOWY5ZmIzZjY5Y2M4MjEzZWFiNDJkNzc0NzYxODMyNmEzOTVkNWNlYmFhYzZjNTUyMDk0OTg3OTU3MzRjNGJlYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTc3NDViNmE3YjYyZTY0MzE3YTU1M2ViZjIzZjk1ODNkYzcxYjViYTRjMWE4NjlhMGM4MzI4NWFiMWE2MWQ5MjBhIiwidWlkIjoiOTMyNjFlNzgzNmU3YzJkMjVjMjBlMDJhNzUzZTdmMTkiLCJ1c2VybmFtZSI6IndpbGxpYW1rcmF5In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA1NDkxODI4LCJoYXNoIjoiNjdmMTFkNWIyNDkyZWRkZjM3NDUwYTI2YWMyMmQ5YjQ0MGMyODk4YmRlMzY0M2Q3NDkyZjg1NTNhNGI0NWU4Y2MzMTBlODNkOWVlMDM0ZjA1NDQxNDc3NDNlYTAwODA4MThkMjJmOGJlYWFjOGM3ZTRkN2JmZmFjMzM3NTUzNjkiLCJoYXNoX21ldGEiOiI5NmJlNWUxODk1Yjc5MmRiYjA5NGI1MTBlNWVmNmI5YjhkNGMyMWE4M2RhYTc1MDYxM2QzYzY1ZmExN2UzOWViIiwic2Vxbm8iOjEzODk2MzF9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmtyYXkucHciLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMCJ9LCJjdGltZSI6MTUwNTQ5MTg3MiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI3MWZkNzhkYWU4N2I3YmJhY2ZjMzdiODg1NmZhMjI4Nzk1YmNjMGMyNGQ1MDY1NGFiODZjNmYxMDZjODIwODhhIiwic2Vxbm8iOjMyLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQG5M6TRVfwYqmfRVqt10Nz1bKvOFGrset2kpX14ZUu6OXlWm1DiDd+7L/I8Ug/TrDsj2JlJF9ZYj3iQoPwRJKw2oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAuisbxRZslWLL8mCel6kDFVyNu2DuTyY0BEy/tmWXiw6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/williamkray
+
+==================================================================
