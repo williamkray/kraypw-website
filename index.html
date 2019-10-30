@@ -6,7 +6,7 @@
 -->
 <html>
 	<head profile="http://www.w3.org/2005/10/profile">
-		<title>kray.pw</title>
+		<title>www.kray.pw</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
@@ -14,6 +14,7 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script><script type="text/javascript" src="https://blockchain.info/Resources/js/pay-now-button.js"></script>
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
 	</head>
 	<body class="is-loading">
@@ -33,11 +34,34 @@
 						  <li><a href="https://www.linkedin.com/in/williamkray" class="fa-linkedin" target="_blank">LinkedIn</a></li>
 						  <li><a href="https://keybase.io/williamkray" class="fa-key" target="_blank">Keybase</a></li>
             </ul>
+            <div class="blockchain-btn"
+                 data-address="1C9nSzYeHfebg2wKY2qFLmP7W9jSo4Pvi2"
+                 data-shared="false">
+                <div class="blockchain stage-begin">
+                    <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
+                </div>
+                <div class="blockchain stage-loading" style="text-align:center">
+                    <img src="https://blockchain.info/Resources/loading-large.gif"/>
+                </div>
+                <div class="blockchain stage-ready">
+                  <p align="center">BITCOIN ADDRESS:<br>
+                  <b>[[address]]</b></p>
+                  <p align="center" class="qr-code"></p>
+                </div>
+                <div class="blockchain stage-paid">
+                     Donation of <b>[[value]] BTC</b> Received. Thank You.
+                </div>
+                <div class="blockchain stage-error">
+                    <font color="red">[[error]]</font>
+                </div>
+            </div>
+            <!--
             <ul class="icons">
 						  <li><a href="gifts/" class="fa-gift" target="_blank">Gift Ideas</a></li>
 						  <li><a href="https://cash.me/$willkray/" class="fa-money" target="_blank">Send Me Money</a></li>
 						  <li><a href="https://mfw.kray.pw/" class="fa-smile-o" target="_blank">Find Some Reaction GIFs</a></li>
 						</ul>
+            -->
 						<footer>
 							<div class="actions">
 							</div>
@@ -47,8 +71,8 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<ul class="copyright">
-							<li>&copy; William Kray</li>
-							<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>&copy; WILLIAM KRAY</li>
+							<li>DESIGN: <a href="http://html5up.net">HTML5 UP</a></li>
 						</ul>
 					</footer>
 
